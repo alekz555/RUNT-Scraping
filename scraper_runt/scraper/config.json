@@ -1,0 +1,14 @@
+{
+  "anticaptcha_key": "d057f1ebb8c4334baf6441dffb519a10",
+  "carpeta_resultados": "resultados_runt",
+  "consultas": [
+    {
+      "placa": "OUG59H",
+      "documento": "1043641484"
+    },
+    {
+      "placa": "ABC123",
+      "documento": "9876543210"
+    }
+  ]
+}
